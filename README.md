@@ -1,6 +1,6 @@
 # keysum
 
-A Python script for processing and summarizing text from PDF files or URLs. This script extracts keywords, Subject-Verb-Object (SVO) structures, and creates a keyword map to help understand the main topics and relationships within the text.
+A Python script for processing and summarizing text from PDF files or URLs. This script extracts keywords, Subject-Verb-Object (SVO) structures, and creates a keyword map to help understand the main topics.
 
 ## Features
 
@@ -77,20 +77,6 @@ This project requires the following dependencies:
 
 Make sure to install these dependencies using `pip`.
 
-## Contributing
+## Example Output
 
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
-## Contact
-
-For any questions or support, please contact [your contact information].
+Here is an example of the output you might get when running the script:
